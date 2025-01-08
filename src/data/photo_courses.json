@@ -1,0 +1,56 @@
+{
+
+    "courses": [
+        {
+            "id": 1,
+            "title": "Photography Fundamentals",
+            "slug": "photography fundamentals",
+            "description": "Learn the besics of photography with our comprehensive beginner's course.",
+            "price": "99.99",
+            "instructor": "Jebesh Rejo",
+            "isFeatured": "true",
+            "image": "/"
+        },
+        {
+            "id": 2,
+            "title": "Photography Fundamentals",
+            "slug": "photography fundamentals",
+            "description": "Learn the besics of photography with our comprehensive beginner's course.",
+            "price": "99.99",
+            "instructor": "Jebesh Rejo",
+            "isFeatured": "true",
+            "image": "/"
+        },
+        {
+            "id": 3,
+            "title": "Photography Fundamentals",
+            "slug": "photography fundamentals",
+            "description": "Learn the besics of photography with our comprehensive beginner's course.",
+            "price": "99.99",
+            "instructor": "Jebesh Rejo",
+            "isFeatured": "true",
+            "image": "/"
+        },
+        {
+            "id": 4,
+            "title": "Photography Fundamentals",
+            "slug": "photography fundamentals",
+            "description": "Learn the besics of photography with our comprehensive beginner's course.",
+            "price": "99.99",
+            "instructor": "Jebesh Rejo",
+            "isFeatured": "true",
+            "image": "/"
+        },
+        {
+            "id": 5,
+            "title": "Photography Fundamentals",
+            "slug": "photography fundamentals",
+            "description": "Learn the besics of photography with our comprehensive beginner's course.",
+            "price": "99.99",
+            "instructor": "Jebesh Rejo",
+            "isFeatured": "true",
+            "image": "/"
+        }
+       
+    ]
+}
