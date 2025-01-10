@@ -16,10 +16,14 @@ function HeroSection() {
         <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">Master The Art Of Photography</h1>
         <p
         className="mt-4 font-normal text-base md:text-lg text-natural-300 mx-w-lg mx-auto"
-        >Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae quibusdam reprehenderit nemo impedit nostrum repudiandae nobis harum mollitia unde perferendis, excepturi sed incidunt aspernatur voluptas dolorem. Maxime voluptatibus illo totam.Lorem ipsum dolor sit amet consectetur adipisicing elit.Maxime voluptatibus illo totam.</p>
+        >Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
+         Beatae quibusdam reprehenderit nemo impedit nostrum repudiandae nobis <br /> harum mollitia unde perferendis, excepturi sed incidunt aspernatur voluptas dolorem.<br /> Maxime voluptatibus illo totam.Lorem ipsum dolor sit amet consectetur adipisicing elit.Maxime voluptatibus illo totam.</p>
         <div className="mt-4">
         <Link href={"/courses"}>
-        <Button>
+        <Button 
+        borderRadius="1.75rem"
+        className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
+        >
         Explore Courses
 
         </Button>
