@@ -3,6 +3,7 @@ import Image from "next/image";
 import HeroSection from "@/components/ui/HeroSection";
 import FeaturedCourses from "@/components/FeaturedCourses";
 import WhyChooseUs from "@/components/ui/WhyChooseUs";
+import PicCards from "@/components/PicCards";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
     <HeroSection />
     <FeaturedCourses />
     <WhyChooseUs />
+    <PicCards />               
     </main>
   );
 }
