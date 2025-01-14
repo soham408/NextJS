@@ -6,6 +6,8 @@ import WhyChooseUs from "@/components/ui/WhyChooseUs";
 import PicCards from "@/components/PicCards";
 import UpcommingWbinars from "@/components/UpcommingWbinars";
 import Instructors from "@/components/Instructors";
+import Footer from "@/components/Footer";
+
 
 export default function Home() {
   return (
@@ -15,7 +17,8 @@ export default function Home() {
     <WhyChooseUs />
     <PicCards />  
     <UpcommingWbinars />    
-    <Instructors />         
+    <Instructors /> 
+    <Footer />   
     </main>
   );
 }
