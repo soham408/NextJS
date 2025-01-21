@@ -11,9 +11,12 @@ import {
   IconBrandOnlyfans,
 } from "@tabler/icons-react";
 import { div } from 'framer-motion/client';
+import { log } from 'node:console';
 
 
 function page() {
+  
+  
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     console.log("Form submitted");
